@@ -1,8 +1,7 @@
-namespace Scripts.Com.Jschiff.Tactics.Common.Model.Arena
+namespace Com.Jschiff.Tactics.Common.Model.Arena
 {
   public class Terrain {
-  
-    Tile[,] tiles;
+    private Tile[,] tiles;
   
     public Terrain () {
     }

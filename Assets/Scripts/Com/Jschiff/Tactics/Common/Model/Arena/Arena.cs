@@ -5,11 +5,6 @@ namespace Com.Jschiff.Tactics.Common.Model.Arena
       get;
       private set;
     }
-    
-    public Effects Effects {
-      get;
-      private set;
-    }
   
     public Arena () {
     }
